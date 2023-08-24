@@ -1,12 +1,16 @@
-# COVID-19-classification-and-detection
-# This repository is for CS771 course project
+# COVID-19-classification-and-detection :microbe:
 
-Multiple tasks were studied.
+Welcome to the repository for the CS771 course (Learning-based Computer Vision) project, dedicated to comprehensive studies related to COVID-19 detection and classification using radiological methodologies.
 
-(1) Use CXRs to identify COVID-19 from non-COVID-19 (both positive and negative cases were confirmed RT-PCR tests). 
+## :bookmark_tabs: Tasks Undertaken
 
-(2) Detecting COVID-19 pneumonia based on radiologists' annotations (bounding boxes). 
+1. **COVID-19 Identification**: Utilized CXRs to differentiate between COVID-19 and non-COVID-19 cases. Both positive and negative cases were corroborated using RT-PCR tests. We also published several papers in this field: Diagnosis of Coronavirus Disease 2019 Pneumonia by Using Chest Radiography: Value of Artificial Intelligence
+[https://pubs.rsna.org/doi/full/10.1148/radiol.2020202944], A Generalizable Artificial Intelligence Model for COVID-19 Classification Task Using Chest X-ray Radiographs: Evaluated Over Four Clinical Datasets with 15,097 Patients [https://arxiv.org/abs/2210.02189]
+2. **Pneumonia Detection**: Focused on pinpointing COVID-19 induced pneumonia based on meticulous annotations from radiologists, represented as bounding boxes.
+3. **Report Turnaround Time Simulation**: Simulated report turnaround time (RTAT) to elucidate potential advantages in streamlining patient triage.
 
-(3) Simulate report turnaround time (RTAT) to demonstrate the potential benefits in patient triage.
 
-This repo is under maintenance. 
+---
+
+**Feedback, contributions, or questions?** Don't hesitate to open an issue or propose changes through pull requests!
+
