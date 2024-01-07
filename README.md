@@ -1,6 +1,6 @@
 # COVID-19-classification-and-detection :microbe:
 
-Welcome to the repository for the ***CS771: Learning-based Computer Vision*** project, dedicated to comprehensive studies related to COVID-19 detection and classification using radiological methodologies.
+Welcome to the repository for the ***CS771: Learning-based Computer Vision*** project, dedicated to comprehensive studies related to COVID-19 detection and classification using radiological methodologies. Check our [**final report**]([https://github.com/xtie97/PET-Report-Summarization-PEFT/blob/main/presentation.pdf](https://github.com/xtie97/COVID-19-classification-and-detection/blob/main/Final%20report.pdf)) 📜.
 
 ## :bookmark_tabs: Tasks Undertaken
 
